@@ -1,0 +1,4 @@
+1. Html : es el esquelo de una pagina web
+2. Css : es el lenguaje estico para html
+3. JavaScript: es un lenguaje de programacion orientado a navegadores, 
+sirve para dar funcionamiento a las paginas web.
